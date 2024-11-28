@@ -10,8 +10,8 @@ public class Main {
         //Expeciones
 
         // EL USO DE LAS EXEPCIONES TIENE QUE MODIFICAR LOS DATOS QUEMADOS TANTO EL TAMANIO Y PESO A NUMEROS NEGATIVOS PARA QUE LAS EXCEPCIONES PUEDAN EJECUTARSE
-        if(planta1.getTamanio() >= 0){
 
+        if(planta1.getTamanio() >= 0){
             System.out.println("--- PLANTAS ---");
             planta1.mostrarDatos();
             planta1.fotoSintesis();
