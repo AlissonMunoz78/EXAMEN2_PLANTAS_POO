@@ -1,5 +1,4 @@
 //Alisson Muñoz, Diego Mullo, Richard Padilla, Joahn Cardenas
-
 public class Main {
     public static void main(String[] args) {
 
