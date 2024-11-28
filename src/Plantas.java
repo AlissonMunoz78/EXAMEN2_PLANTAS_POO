@@ -1,3 +1,4 @@
+//Alisson Muñoz, Diego Mullo, Richard Padilla, Joahn Cardenas
 public class Plantas {
     private String nombre;
     private String color;

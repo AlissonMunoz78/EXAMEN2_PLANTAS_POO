@@ -1,3 +1,4 @@
+//Alisson Muñoz, Diego Mullo, Richard Padilla, Joahn Cardenas
 public class Vegetales  extends Plantas{
     private String nutrientes;
     private String fibra;

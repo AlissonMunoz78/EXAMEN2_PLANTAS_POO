@@ -1,3 +1,4 @@
+//Alisson Muñoz, Diego Mullo, Richard Padilla, Joahn Cardenas
 public class tipoVegetal extends Vegetales {
     private String ubicacion; // donde se cultiva
     private boolean Semilla; //Si tiene semilla o no
